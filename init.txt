@@ -1,1 +1,0 @@
-Init of Git Repo for my work through of The Modern React Bootcamp by Colt Steele
